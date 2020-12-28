@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/andrej-tunes/static/css/main.7a78a0f2.chunk.css",
+    "main.js": "/andrej-tunes/static/js/main.ca91c32f.chunk.js",
+    "main.js.map": "/andrej-tunes/static/js/main.ca91c32f.chunk.js.map",
+    "runtime-main.js": "/andrej-tunes/static/js/runtime-main.c784770c.js",
+    "runtime-main.js.map": "/andrej-tunes/static/js/runtime-main.c784770c.js.map",
+    "static/js/2.3345f682.chunk.js": "/andrej-tunes/static/js/2.3345f682.chunk.js",
+    "static/js/2.3345f682.chunk.js.map": "/andrej-tunes/static/js/2.3345f682.chunk.js.map",
+    "static/js/3.4c40ea8f.chunk.js": "/andrej-tunes/static/js/3.4c40ea8f.chunk.js",
+    "static/js/3.4c40ea8f.chunk.js.map": "/andrej-tunes/static/js/3.4c40ea8f.chunk.js.map",
+    "index.html": "/andrej-tunes/index.html",
+    "static/css/main.7a78a0f2.chunk.css.map": "/andrej-tunes/static/css/main.7a78a0f2.chunk.css.map",
+    "static/js/2.3345f682.chunk.js.LICENSE.txt": "/andrej-tunes/static/js/2.3345f682.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c784770c.js",
+    "static/js/2.3345f682.chunk.js",
+    "static/css/main.7a78a0f2.chunk.css",
+    "static/js/main.ca91c32f.chunk.js"
+  ]
+}
